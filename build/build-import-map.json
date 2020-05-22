@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "../src/App.jsx": "../build/src/App.js",
+    "../src/components/Hello.jsx": "../build/src/components/Hello.js"
+  }
+}

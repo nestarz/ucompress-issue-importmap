@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "react": "./react/16.13.1/react.js",
+    "react-dom": "./react-dom/16.13.1/react-dom.js",
+    "es-module-shims": "./es-module-shims/0.4.6/es-module-shims.js"
+  },
+  "scopes": {
+    "./react-dom/16.13.1/": {
+      "react": "./react/16.13.1/react.js"
+    }
+  }
+}
